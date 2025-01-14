@@ -8,7 +8,7 @@ const page = () => {
   return (
     <div className={styles.body}>
       <div>
-        <h1 className={styles.h1}>WELCOME BRO!</h1>
+        <h1 className={styles.h1}>WELCOME!</h1>
       </div>
       <div>
         <button className={styles.button} onClick={() => setclick(count+1)}>
